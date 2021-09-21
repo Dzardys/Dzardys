@@ -1,7 +1,9 @@
 [![MasterHead](http://www.dzardys.site/githeader.png)](https://github.com/Dzardys)
 
 
-**Ayo, I'm Dzardys, currently 18 yo junior dev, who's interested in backend and C# development
+Ayo, I'm Dzardys, currently 18 yo junior dev, who's interested in backend and C# development-
+I live in Czechia, I'm interested in watching anime, playing games, making music and programming.
+I don't like politically correct people.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
