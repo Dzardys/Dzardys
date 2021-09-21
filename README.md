@@ -11,5 +11,5 @@ I don't like politically correct people.
 <p align="left">
 <a href="https://www.instagram.com/dzardys_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dzardys&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dzardys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dzardys&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
