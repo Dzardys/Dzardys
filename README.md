@@ -17,4 +17,4 @@ I don't like politically correct people.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dzardys&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<img align="right" alt=Waifu2" width="400" src="https://c.tenor.com/qqv22nf1cwgAAAAC/rias-gremory.gif">
