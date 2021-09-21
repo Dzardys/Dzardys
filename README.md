@@ -1,11 +1,10 @@
 [![MasterHead](http://www.dzardys.site/githeader.png)](https://github.com/Dzardys)
 
+<img align="right" alt="Waifu" width="400" src="https://c.tenor.com/l7PZ-vCq4FsAAAAC/rias-gremory-highschool-dxd.gif">
 
 Ayo, I'm Dzardys, currently 18 yo junior dev, who's interested in backend and C# development<br>
 I live in Czechia, I'm interested in watching anime, playing games, making music and programming.<br>
 I don't like politically correct people.
-
-<img align="right" alt="Waifu" width="400" src="https://c.tenor.com/l7PZ-vCq4FsAAAAC/rias-gremory-highschool-dxd.gif">
                                                                                                       
 <h3 align="left">Connect with me:</h3>
 <p align="left">
