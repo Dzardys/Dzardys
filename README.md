@@ -16,4 +16,4 @@ I don't like politically correct people.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dzardys&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<your discord id>)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=523468146183634971)
