@@ -1,5 +1,3 @@
-[![MasterHead](http://www.dzardys.site/githeader.png)](https://github.com/Dzardys)
-
 <img align="right" alt="Waifu" width="400" src="https://c.tenor.com/l7PZ-vCq4FsAAAAC/rias-gremory-highschool-dxd.gif">
 
 Ayo, I'm Dzardys, currently 19 yo junior dev, who's interested in backend and C# development<br>
