@@ -1,7 +1,7 @@
 <img align="right" alt="Waifu" width="400" src="https://c.tenor.com/l7PZ-vCq4FsAAAAC/rias-gremory-highschool-dxd.gif">
 
-Ayo, I'm Dzardys, currently 19 yo junior dev, who's interested in backend and C# development<br>
-I live in Czechia, I'm interested in watching anime, playing games, making music and programming.<br>
+Ayo, I'm Dzardys, currently 19 yo junior dev, who's interested in backend and desktop apps development, but actually in scripting as well.<br>
+I live in Czechia, I'm interested in programming, playing GTASA and eventually watching some series on Netflix.<br>
 I don't like politically correct people.<br>
 Слава Україні! 🇺🇦
                                                                                                       
