@@ -5,8 +5,8 @@ I live in Czechia, I'm interested in programming, playing GTASA and eventually w
 I don't like politically correct people.<br>
                                                                                                       
 <h3>Buy me some bread</h3>
-<a href="https://paypal.me/dzardysdev" target="_blank">PayPal</a>
-
+<a href="https://paypal.me/dzardysdev" target="blank">PayPal</a>
+<br>
                                                                                                       
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dzardys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
