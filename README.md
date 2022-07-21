@@ -2,7 +2,6 @@
 
 Ayo, I'm Dzardys, currently 19 yo junior dev, who's interested in frontend, backend and desktop apps development, but actually in scripting as well.<br>
 I live in Czechia, I'm interested in programming, playing GTASA and eventually watching some series on Netflix.<br>
-I don't like politically correct people.<br>
                                                                                                       
 <h3>Buy me some bread</h3>
 <a href="https://paypal.me/dzardysdev" target="blank">PayPal</a>
