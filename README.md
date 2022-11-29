@@ -4,7 +4,7 @@ Ayo, I'm Dzardys, currently 19 yo junior dev, who's interested in backend and de
 I live in Czechia, I'm interested in programming, playing and developing games and simping my crush.<br>
 I can do something in Lua, JavaScript, PHP and C#. Don't want me to do some frontend for you, it might end really bad.<br>
                                                                                                       
-<a href="https://paypal.me/dzardysdev" target="blank"><h3>Buy me some bread</h3></a>
+<a href="https://paypal.me/dzardysdev" target="blank"><p>Buy me some bread</p></a>
 <br>
                                                                                                       
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dzardys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
