@@ -1,8 +1,8 @@
 <img align="right" alt="Waifu" width="400" src="https://c.tenor.com/l7PZ-vCq4FsAAAAC/rias-gremory-highschool-dxd.gif">
 
-Ayo, I'm Dzardys, currently 20 yo junior dev, who's interested in backend and desktop apps development.<br>
-I live in Czechia, I'm interested in programming, playing and developing games and simping my crush.<br>
-I can do something in Lua, JavaScript, PHP and C#. Don't want me to do some frontend for you, it might end really bad.<br>
+Ayo, I'm Dzardys, currently 21 yo junior dev, who's interested in backend and desktop apps development.<br>
+I live in Czechia, I'm interested in programming, playing and developing games, websites and also simping my crew.<br>
+I can do something in Lua, JavaScript, PHP and C#. Not really interested in frontend, I prefer raw PHP or Symfony for everything I do.<br>
                                                                                                       
 <a href="https://paypal.me/dzardysdev" target="blank">Buy me some bread</a>
 <br>
